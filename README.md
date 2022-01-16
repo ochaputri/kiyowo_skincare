@@ -9,3 +9,6 @@ Analyst (Nama/NIM)			    : Nuriyah Wulandari     (20102109)
 Designer (Nama/NIM)		      : Prakas Aji Pratama    (20102120)
 Data Engineer (Nama/NIM)		: Farhan Adhyasta       (20102114)
 Programmer (Nama/NIM)		    : Ocha Putri Nugroho    (20102111)
+
+# Tampilan User
+![user](https://user-images.githubusercontent.com/77487316/149664038-0a19f616-f182-4b3e-8fb4-4a7f204b0ee0.png)
