@@ -9,5 +9,3 @@ Analyst (Nama/NIM)			    : Nuriyah Wulandari     (20102109)
 Designer (Nama/NIM)		      : Prakas Aji Pratama    (20102120)
 Data Engineer (Nama/NIM)		: Farhan Adhyasta       (20102114)
 Programmer (Nama/NIM)		    : Ocha Putri Nugroho    (20102111)
-
-# Screenshot Design 
